@@ -1,4 +1,3 @@
-Assignment1: Roll-a-ball game
+Roll-a-ball game
 
-
-Student name: Dharini Chandrashekar
+Tool: Unity Editor
